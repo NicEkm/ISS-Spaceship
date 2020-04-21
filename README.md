@@ -22,6 +22,9 @@ Then you need to install some libraries wiht pyinstall:
 * import datetime
 * import time
 
+## Visualization
+![](Images/Pic1)
+
 ## News
 
 
