@@ -13,7 +13,7 @@ ISS Spaceship tracking:
 ## Usage
 
 Simply download the source folder and the code is explained on the .py file.
-Then you need to install some libraries wiht pyinstall:
+Then you need to install some libraries with pyinstall:
 
 ## Pip install libraries
 * Python 3 needs to be installed (You can download it from the official site of python.)
