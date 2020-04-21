@@ -23,7 +23,7 @@ Then you need to install some libraries wiht pyinstall:
 * import time
 
 ## Visualization
-![](Images/Pic1)
+![](Images/Pic1.png)
 
 ## News
 
